@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1705.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{D523C83F-AD51-4156-A89F-CA913231C078}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "StructuralPatterns\DecoratorPattern\DecoratorPattern.csproj", "{D523C83F-AD51-4156-A89F-CA913231C078}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{B355527C-65E6-4B79-A374-7A3C22FECCFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "BehavioralPatterns\StrategyPattern\StrategyPattern.csproj", "{B355527C-65E6-4B79-A374-7A3C22FECCFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{AA4EED85-ADF5-4D9F-9AE8-72FC321472EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "StructuralPatterns\FacadePattern\FacadePattern.csproj", "{AA4EED85-ADF5-4D9F-9AE8-72FC321472EC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{04606905-9C0E-40EB-AEDD-8B7697981BEE}"
 	ProjectSection(SolutionItems) = preProject
@@ -18,13 +18,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "Struc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "CreationalPatterns", "{4F93E19A-5754-42D4-8CAA-617F282A7E94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{C27EDA60-8C40-4EA6-BD3D-D7FC82780A3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "StructuralPatterns\AdapterPattern\AdapterPattern.csproj", "{C27EDA60-8C40-4EA6-BD3D-D7FC82780A3F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "BehavioralPatterns", "{AE4134A4-2B3F-4F3A-844F-3BD0F878839B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{BB1D1EA3-96CE-4057-830F-06FAF3F8EEFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "CreationalPatterns\SingletonPattern\SingletonPattern.csproj", "{BB1D1EA3-96CE-4057-830F-06FAF3F8EEFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "StrategyPattern\MediatorPattern\MediatorPattern.csproj", "{A21FA29F-8E3F-46C2-A509-422889E798F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "BehavioralPatterns\MediatorPattern\MediatorPattern.csproj", "{A21FA29F-8E3F-46C2-A509-422889E798F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
