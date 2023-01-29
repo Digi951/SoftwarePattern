@@ -4,6 +4,9 @@ This is a project which includes the commen software pattern.
 
 ## Creational Patterns
 
+### Singleton Pattern
+It creates just ONE instance of a class.
+
 ## Structural Patterns
 
 ### Adapter Pattern
