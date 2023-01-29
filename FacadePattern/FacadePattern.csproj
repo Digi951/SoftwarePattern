@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Facade\" />
+    <None Remove="Client\" />
+    <None Remove="Subsystem\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Facade\" />
+    <Folder Include="Client\" />
+    <Folder Include="Subsystem\" />
+  </ItemGroup>
+</Project>
