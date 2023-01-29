@@ -20,5 +20,8 @@ Via this pattern, the client will get an interface to call for example just one 
 
 ## Behavioral Patterns
 
+### Mediator Pattern
+Objects can communicate with each other via a loosely coupled mediator
+
 ### Strategy Pattern
 With this pattern it is possible to change the implemented strategy during runtime.
