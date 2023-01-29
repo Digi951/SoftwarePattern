@@ -7,7 +7,7 @@ This is a project which includes the commen software pattern.
 ## Structural Patterns
 
 ### Adapter Pattern
-It translates via an adapter to a target interface.
+It translates the methods of a client via an adapter to a target interface.
 
 ### Decorator Pattern
 This pattern adds functionality to a existing component.
