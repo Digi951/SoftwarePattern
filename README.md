@@ -23,5 +23,8 @@ Via this pattern, the client will get an interface to call for example just one 
 ### Mediator Pattern
 Objects can communicate with each other via a loosely coupled mediator
 
+### Observer Pattern
+Several objects can subscribe to one object and will be notified when the status changes
+
 ### Strategy Pattern
 With this pattern it is possible to change the implemented strategy during runtime.

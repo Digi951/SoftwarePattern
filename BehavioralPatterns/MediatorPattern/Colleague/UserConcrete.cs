@@ -22,7 +22,7 @@ public class UserConcrete : User
 
     public override void SendPrivateMessage(string message, User targetUser)
     {
-        Mediator.SendPrivateMessage(message, targetUser);
+        Mediator.SendPrivateMessage($"{Name} schrieb: {message}", targetUser);
     }
 }
 
