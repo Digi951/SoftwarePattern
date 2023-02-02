@@ -12,6 +12,9 @@ It creates just ONE instance of a class.
 ### Adapter Pattern
 It translates the methods of a client via an adapter to a target interface.
 
+### Composite Pattern
+This pattern treated primitive and composite objects in a same way.
+
 ### Decorator Pattern
 This pattern adds functionality to a existing component.
 
