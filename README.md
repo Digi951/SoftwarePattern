@@ -24,7 +24,7 @@ Via this pattern, the client will get an interface to call for example just one 
 ## Behavioral Patterns
 
 ### Iterator Pattern
-Via this pattern it is possible to iterate throw each kind of datastructure with different behaviors
+Via this pattern it is possible to iterate through each kind of datastructure with different behaviors
 
 ### Mediator Pattern
 Objects can communicate with each other via a loosely coupled mediator
