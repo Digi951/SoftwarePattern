@@ -31,6 +31,9 @@ This pattern is usefull to delay the request of expensive data
 
 ## Behavioral Patterns
 
+### Command Pattern
+
+
 ### Iterator Pattern
 Via this pattern it is possible to iterate through each kind of datastructure with different behaviors
 
