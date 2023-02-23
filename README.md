@@ -32,7 +32,7 @@ This pattern is usefull to delay the request of expensive data
 ## Behavioral Patterns
 
 ### Command Pattern
-
+Operations can be queued, logged and reversed
 
 ### Iterator Pattern
 Via this pattern it is possible to iterate through each kind of datastructure with different behaviors
