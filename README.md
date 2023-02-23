@@ -21,6 +21,14 @@ This pattern adds functionality to a existing component.
 ### Facade Pattern
 Via this pattern, the client will get an interface to call for example just one method instead a bunch of methods of several subsystems.
 
+### Proxy Pattern
+
+#### Protection Pattern
+This pattern is useful to protect some functionality or access to other objects
+
+#### Virtual Pattern
+This pattern is usefull to delay the request of expensive data
+
 ## Behavioral Patterns
 
 ### Iterator Pattern
@@ -37,3 +45,9 @@ Some pieces of an algorithm can be exchanged.
 
 ### Strategy Pattern
 With this pattern it is possible to change the implemented strategy during runtime.
+
+
+## Others
+
+### Repository Pattern
+### Data-Access-Object Pattern
