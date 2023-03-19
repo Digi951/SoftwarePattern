@@ -40,6 +40,9 @@ Via this pattern it is possible to iterate through each kind of datastructure wi
 ### Mediator Pattern
 Objects can communicate with each other via a loosely coupled mediator
 
+### Memento Pattern
+States of objects can be stored and restored
+
 ### Observer Pattern
 Several objects can subscribe to one object and will be notified when the status changes
 

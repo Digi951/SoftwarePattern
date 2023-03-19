@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualProxyPattern", "Stru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "BehavioralPatterns\CommandPattern\CommandPattern.csproj", "{F9B9D1D7-80F8-4E25-99C0-ADE986736769}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "BehavioralPatterns\MementoPattern\MementoPattern.csproj", "{C19F2CBD-E3FD-448B-84C0-A9C0F2B0AB7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,6 +102,10 @@ Global
 		{F9B9D1D7-80F8-4E25-99C0-ADE986736769}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9B9D1D7-80F8-4E25-99C0-ADE986736769}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9B9D1D7-80F8-4E25-99C0-ADE986736769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19F2CBD-E3FD-448B-84C0-A9C0F2B0AB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19F2CBD-E3FD-448B-84C0-A9C0F2B0AB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19F2CBD-E3FD-448B-84C0-A9C0F2B0AB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19F2CBD-E3FD-448B-84C0-A9C0F2B0AB7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,5 +128,6 @@ Global
 		{1A19F0DA-2947-417B-948E-43CDDA799595} = {57EA45DA-EC23-4F08-99CB-819CD244FAEB}
 		{02C064C2-6D89-4534-AF30-6BE2B4A5FB46} = {57EA45DA-EC23-4F08-99CB-819CD244FAEB}
 		{F9B9D1D7-80F8-4E25-99C0-ADE986736769} = {AE4134A4-2B3F-4F3A-844F-3BD0F878839B}
+		{C19F2CBD-E3FD-448B-84C0-A9C0F2B0AB7D} = {AE4134A4-2B3F-4F3A-844F-3BD0F878839B}
 	EndGlobalSection
 EndGlobal
