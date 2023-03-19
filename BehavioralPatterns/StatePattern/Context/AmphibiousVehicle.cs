@@ -1,7 +1,7 @@
 ﻿using System;
 using StatePattern.States;
 
-namespace StatePattern;
+namespace StatePattern.Context;
 
 public class AmphibiousVehicle
 {
