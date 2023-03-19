@@ -21,6 +21,9 @@ This pattern adds functionality to a existing component.
 ### Facade Pattern
 Via this pattern, the client will get an interface to call for example just one method instead a bunch of methods of several subsystems.
 
+### Flyweight Pattern
+In case of creating serveral objects of a few dedicated classes, it can be used for memory optimization
+
 ### Proxy Pattern
 
 #### Protection Pattern
@@ -46,15 +49,14 @@ States of objects can be stored and restored
 ### Observer Pattern
 Several objects can subscribe to one object and will be notified when the status changes
 
-### Template Pattern
-Some pieces of an algorithm can be exchanged.
-
 ### State Pattern
 Change the behavior of an object during runtime
 
 ### Strategy Pattern
 With this pattern it is possible to change the implemented strategy during runtime.
 
+### Template Pattern
+Some pieces of an algorithm can be exchanged.
 
 ## Others
 
