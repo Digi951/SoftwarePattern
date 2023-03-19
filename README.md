@@ -4,6 +4,14 @@ This is a project which includes the commen software pattern.
 
 ## Creational Patterns
 
+### Factory Pattern
+
+#### Factory Method Pattern
+It creates during runtime a concrete object 
+
+#### Abstract Factory Pattern
+it creates during runtime a object family
+
 ### Singleton Pattern
 It creates just ONE instance of a class.
 
