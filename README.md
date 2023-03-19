@@ -49,6 +49,9 @@ Several objects can subscribe to one object and will be notified when the status
 ### Template Pattern
 Some pieces of an algorithm can be exchanged.
 
+### State Pattern
+Change the behavior of an object during runtime
+
 ### Strategy Pattern
 With this pattern it is possible to change the implemented strategy during runtime.
 
