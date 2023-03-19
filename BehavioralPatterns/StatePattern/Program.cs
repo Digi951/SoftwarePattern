@@ -1,6 +1,7 @@
 ﻿using StatePattern;
+using StatePattern.Context;
 
-AmphibiousVehicle amphibiousVehicle = new AmphibiousVehicle();
+AmphibiousVehicle amphibiousVehicle = new ();
 
 amphibiousVehicle.Accelerate();
 amphibiousVehicle.SlowDown();
