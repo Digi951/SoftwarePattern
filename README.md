@@ -70,3 +70,4 @@ Some pieces of an algorithm can be exchanged.
 
 ### Repository Pattern
 ### Data-Access-Object Pattern
+### Inversion of Control
