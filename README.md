@@ -42,6 +42,9 @@ This pattern is usefull to delay the request of expensive data
 
 ## Behavioral Patterns
 
+### Chain of Responsibility
+It avoids coupling the sender of a requeset to its receiver
+
 ### Command Pattern
 Operations can be queued, logged and reversed
 
