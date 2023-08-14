@@ -71,5 +71,7 @@ Some pieces of an algorithm can be exchanged.
 
 ## Others
 
-### Repository Pattern
-### Data-Access-Object Pattern
+### Repository Design Pattern (ToDo)
+### Data-Access-Object Pattern (ToDo)
+### Inversion of Control (ToDo)
+### Publisher Subscriber Pattern (ToDo)
