@@ -57,6 +57,9 @@ States of objects can be stored and restored
 ### Observer Pattern
 Several objects can subscribe to one object and will be notified when the status changes
 
+### Rule Engine Pattern
+This decouples the business rules from their processing by encapsulating them in to separate classes.
+
 ### State Pattern
 Change the behavior of an object during runtime
 
